@@ -1,0 +1,7 @@
+{
+  "name": "Resend DMARC Generator & Spam Fixer",
+  "description": "Generate perfect _dmarc DNS TXT records for domains and subdomains to prevent Resend emails from landing in spam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
